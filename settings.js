@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "RYO BOT GANTENG"
 global.ownername= "RYO WIBU×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
+global.myweb = "https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://zeeoneofc.github.io/"
 global.ownernomer = "6282129353366"

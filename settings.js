@@ -18,10 +18,10 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "RYO BOT"
-global.ownername= "RYO GANTENG×፝֟͜×"
+global.botname = "RYO BOT GANTENG"
+global.ownername= "RYO WIBU×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
+global.youtube = "https://youtube.com/c/RyoBot"
 global.github = "https://zeeoneofc.github.io/"
 global.ownernomer = "6282129353366"
 global.ownernomerr = "+6281646884686"

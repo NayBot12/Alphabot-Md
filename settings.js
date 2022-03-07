@@ -18,8 +18,8 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "RYO BOT GANTENG"
-global.ownername= "RYO WIBU×፝֟͜×"
+global.botname = "Syafaa Bot"
+global.ownername= "SYAFA×፝֟͜×"
 global.myweb = "https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://zeeoneofc.github.io/"
@@ -29,7 +29,7 @@ global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6281646884686","6282129353366","6281321399115"]//ganti agar fitur owner bisa di gunakan
-global.packname = '© RYO' //sticker wm
+global.packname = '© SYAFA' //sticker wm
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='

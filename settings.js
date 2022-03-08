@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
@@ -21,7 +21,7 @@ global.available = true //status online (online)
 global.botname = "×፝֟͜×RyoDontCare×፝֟͜×"
 global.ownername= "RyoDontCare×፝֟͜×"
 global.myweb = "https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
+global.youtube = "https://youtube.com/c/Ryo Bot"
 global.github = "https://zeeoneofc.github.io/"
 global.ownernomer = "6282129353366"
 global.ownernomerr = "+6282129353366"
